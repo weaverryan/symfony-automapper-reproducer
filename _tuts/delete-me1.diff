@@ -1,0 +1,25 @@
+diff --git a/composer.json b/composer.json
+index 1fe8d5c..f0066e5 100644
+--- a/composer.json
++++ b/composer.json
+@@ -57,5 +57,7 @@
+             "allow-contrib": false,
+             "require": "4.3.*"
+         }
++    },
++    "require-dev": {
+     }
+ }
+diff --git a/composer.lock b/composer.lock
+index b5e9114..c85cc73 100644
+--- a/composer.lock
++++ b/composer.lock
+@@ -4,7 +4,7 @@
+         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+         "This file is @generated automatically"
+     ],
+-    "content-hash": "2a31e7d420823eeacd0bc7063e91dc90",
++    "content-hash": "ac9dd8e320c192c5ca08ca9939fc2b34",
+     "packages": [
+         {
+             "name": "doctrine/annotations",

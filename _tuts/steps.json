@@ -16,6 +16,11 @@
             "description": null
         },
         {
+            "id": "delete-me1",
+            "name": "Delete me1",
+            "description": null
+        },
+        {
             "id": "setup-install-property-info",
             "name": "Setup: install property-info",
             "description": null
