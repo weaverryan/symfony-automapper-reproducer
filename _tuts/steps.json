@@ -1,0 +1,40 @@
+{
+    "steps": [
+        {
+            "id": "start",
+            "name": "start",
+            "description": null
+        },
+        {
+            "id": "setup-install-validator",
+            "name": "Setup: install validator",
+            "description": null
+        },
+        {
+            "id": "setup-install-annotations",
+            "name": "Setup: install annotations",
+            "description": null
+        },
+        {
+            "id": "delete-me1",
+            "name": "Delete me1",
+            "description": null
+        },
+        {
+            "id": "setup-install-property-info",
+            "name": "Setup: install property-info",
+            "description": null
+        },
+        {
+            "id": "setup-add-entity",
+            "name": "Setup: Add entity",
+            "description": null
+        },
+        {
+            "id": "setup-add-controller",
+            "name": "Setup: Add controller",
+            "description": null
+        }
+    ],
+    "sha": "8150490557c23b75670a5a0edc01337b8152cec5"
+}
